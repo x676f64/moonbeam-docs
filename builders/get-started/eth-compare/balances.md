@@ -1,5 +1,5 @@
 ---
-title: Account Balances
+title: Account Balances Woo!
 description: A description of the main differences that Ethereum developers need to understand in terms of account balances on Moonbeam.
 ---
 
