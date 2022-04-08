@@ -1,6 +1,7 @@
 ---
 title: Account Balances Woo!
 description: A description of the main differences that Ethereum developers need to understand in terms of account balances on Moonbeam.
+keywords: Blah, meow
 ---
 
 ![Moonbeam v Ethereum - Account Balances Banner](/images/builders/get-started/eth-compare/balances-banner.png)
